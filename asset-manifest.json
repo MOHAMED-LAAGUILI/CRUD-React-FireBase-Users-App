@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CRUD-React-FireBase-Users-App/static/css/main.f70d8baa.css",
+    "main.js": "/CRUD-React-FireBase-Users-App/static/js/main.dd29f5ca.js",
+    "index.html": "/CRUD-React-FireBase-Users-App/index.html",
+    "main.f70d8baa.css.map": "/CRUD-React-FireBase-Users-App/static/css/main.f70d8baa.css.map",
+    "main.dd29f5ca.js.map": "/CRUD-React-FireBase-Users-App/static/js/main.dd29f5ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f70d8baa.css",
+    "static/js/main.dd29f5ca.js"
+  ]
+}
